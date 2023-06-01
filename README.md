@@ -1,4 +1,12 @@
-# Color_switch_game
+# Color_switch_game :joystick:
+
+
+## Table of Contents
+
+1. [About](#about)
+2. [Screenshot](#screenshot)
+3. [Features](#features)
+4. [Implementation](#implementation)
 
 ## About 
 Color Switch: A JavaFX College Project
@@ -18,7 +26,7 @@ Color Switch stands as a testament to my dedication, technical expertise, and en
 	<img height="600" src="https://github.com/IshanMehta115/Color_switch_game/blob/main/color_switch.png">
 </p>
 
-## Features:
+## Features
 
 - It has a single endless mode in which you jump through same colored obstacles and gain stars.
 
@@ -28,7 +36,7 @@ Color Switch stands as a testament to my dedication, technical expertise, and en
 
 - You can also save your game after pausing it and then later load it from the main menu.
 
-## Implementation:
+## Implementation
 
 - The ball is an object of the player class which extends from in built Circle class.
 
